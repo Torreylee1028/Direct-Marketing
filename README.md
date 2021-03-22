@@ -10,6 +10,9 @@ This project was a collaborative effort between two other teammates. The project
 * Scikit-learn
 * ggplot2
 
+### Data
+Direct Marketing: Amount Spent by Customers - https://www.kaggle.com/yoghurtpatil/direct-marketing
+
 ### Modeling Methods
 * K-Nearest Neighbors
 * Decision Tree
