@@ -1,5 +1,5 @@
 # Direct Marketing
-## Predictive Analyrics
+## Predictive Analytics
 
 ### Introduction
 This project was a collaborative effort between two other teammates. The project’s goal was to predict what type of spender a potential customer would be based on household characteristics. The spending types were low, medium, and high. We implemented five different types of models and compared them to see which yield the highest accuracy score. The paper presents the five methods and a breakdown how each performed. 
